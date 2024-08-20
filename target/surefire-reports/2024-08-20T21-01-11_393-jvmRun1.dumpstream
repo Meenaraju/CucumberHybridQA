@@ -1,0 +1,1012 @@
+# Created at 2024-08-20T21:01:23.776
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:210)
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:385)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+
+# Created at 2024-08-20T21:01:24.224
+Unexpected IOException with stream: Aug 20, 2024 9:01:24 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 127, returning the closest version; found: 124; Please update to a Selenium version that supports CDP version 127
+
+
+# Created at 2024-08-20T21:01:25.447
+Unexpected IOException with stream:   [32mGiven [0m[32muser navigates to login page[0m                                  [90m# stepDefinitions.Login.user_navigates_to_login_page()[0m
+
+
+# Created at 2024-08-20T21:01:25.672
+Unexpected IOException with stream: 
+    Embedding image [image/png 99155 bytes]
+
+
+
+# Created at 2024-08-20T21:01:25.947
+Unexpected IOException with stream:   [32mWhen [0m[32muser enters invalid email address into email field[0m             [90m# stepDefinitions.Login.user_enters_invalid_email_address_into_email_field()[0m
+
+
+# Created at 2024-08-20T21:01:26.089
+Unexpected IOException with stream: 
+    Embedding image [image/png 103772 bytes]
+
+
+
+# Created at 2024-08-20T21:01:26.351
+Unexpected IOException with stream:   [32mAnd [0m[32muser enters the invalid password [0m[32m[1m"12345432"[0m[32m into password field[0m [90m# stepDefinitions.Login.user_enters_the_invalid_password_into_password_field(java.lang.String)[0m
+
+
+# Created at 2024-08-20T21:01:26.481
+Unexpected IOException with stream: 
+    Embedding image [image/png 102690 bytes]
+
+
+
+# Created at 2024-08-20T21:01:26.887
+Unexpected IOException with stream:   [32mAnd [0m[32muser clicks on login button[0m                                     [90m# stepDefinitions.Login.user_clicks_on_login_button()[0m
+
+
+# Created at 2024-08-20T21:01:26.992
+Unexpected IOException with stream: 
+    Embedding image [image/png 105405 bytes]
+
+
+
+# Created at 2024-08-20T21:01:27.074
+Unexpected IOException with stream:   [32mThen [0m[32muser should get a warning message about credentials mismatch[0m   [90m# stepDefinitions.Login.user_should_get_a_warning_message_about_credentials_mismatch()[0m
+
+
+# Created at 2024-08-20T21:01:27.181
+Unexpected IOException with stream: 
+    Embedding image [image/png 105405 bytes]
+
+
+
+# Created at 2024-08-20T21:01:27.478
+Unexpected IOException: 6,1,Login Functionality,Login with invalid credentials(Login Functionality),null,null,null
+
+
+# Created at 2024-08-20T21:01:27.478
+Unexpected IOException: 5,1,Login Functionality,Login with valid email and invalid password(Login Functionality),null,null,null
+
+
+# Created at 2024-08-20T21:01:27.493
+Unexpected IOException with stream: 
+Scenario: Login with valid email and invalid password                            [90m# src/test/resource/features/Login.feature:24[0m
+
+
+# Created at 2024-08-20T21:01:27.493
+Unexpected IOException with stream: ------>chrome
+
+
+# Created at 2024-08-20T21:01:28.838
+Unexpected IOException with stream: Aug 20, 2024 9:01:28 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 127, returning the closest version; found: 124; Please update to a Selenium version that supports CDP version 127
+
+
+# Created at 2024-08-20T21:01:30.082
+Unexpected IOException with stream:   [32mGiven [0m[32muser navigates to login page[0m                                             [90m# stepDefinitions.Login.user_navigates_to_login_page()[0m
+
+
+# Created at 2024-08-20T21:01:30.255
+Unexpected IOException with stream: 
+    Embedding image [image/png 99155 bytes]
+
+
+
+# Created at 2024-08-20T21:01:30.567
+Unexpected IOException with stream:   [32mWhen [0m[32muser enters valid email address [0m[32m[1m"amotooricap9@gmail.com"[0m[32m into email field[0m [90m# stepDefinitions.Login.user_enters_valid_email_address_into_email_field(java.lang.String)[0m
+
+
+# Created at 2024-08-20T21:01:30.678
+Unexpected IOException with stream: 
+    Embedding image [image/png 101943 bytes]
+
+
+
+# Created at 2024-08-20T21:01:30.899
+Unexpected IOException with stream:   [32mAnd [0m[32muser enters the invalid password [0m[32m[1m"12345432"[0m[32m into password field[0m            [90m# stepDefinitions.Login.user_enters_the_invalid_password_into_password_field(java.lang.String)[0m
+
+
+# Created at 2024-08-20T21:01:31.015
+Unexpected IOException with stream: 
+    Embedding image [image/png 100896 bytes]
+
+
+
+# Created at 2024-08-20T21:01:31.385
+Unexpected IOException with stream:   [32mAnd [0m[32muser clicks on login button[0m                                                [90m# stepDefinitions.Login.user_clicks_on_login_button()[0m
+
+
+# Created at 2024-08-20T21:01:31.525
+Unexpected IOException with stream: 
+    Embedding image [image/png 103582 bytes]
+
+
+
+# Created at 2024-08-20T21:01:31.592
+Unexpected IOException with stream:   [32mThen [0m[32muser should get a warning message about credentials mismatch[0m              [90m# stepDefinitions.Login.user_should_get_a_warning_message_about_credentials_mismatch()[0m
+
+
+# Created at 2024-08-20T21:01:31.698
+Unexpected IOException with stream: 
+    Embedding image [image/png 103582 bytes]
+
+
+
+# Created at 2024-08-20T21:01:32.033
+Unexpected IOException: 6,1,Login Functionality,Login with valid email and invalid password(Login Functionality),null,null,null
+
+
+# Created at 2024-08-20T21:01:32.034
+Unexpected IOException: 5,1,Login Functionality,Login with invalid email and valid password(Login Functionality),null,null,null
+
+
+# Created at 2024-08-20T21:01:32.041
+Unexpected IOException with stream: 
+@me
+Scenario: Login with invalid email and valid password               [90m# src/test/resource/features/Login.feature:32[0m
+
+
+# Created at 2024-08-20T21:01:32.043
+Unexpected IOException with stream: ------>chrome
+
+
+# Created at 2024-08-20T21:01:33.395
+Unexpected IOException with stream: Aug 20, 2024 9:01:33 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 127, returning the closest version; found: 124; Please update to a Selenium version that supports CDP version 127
+
+
+# Created at 2024-08-20T21:01:34.522
+Unexpected IOException with stream:   [32mGiven [0m[32muser navigates to login page[0m                                [90m# stepDefinitions.Login.user_navigates_to_login_page()[0m
+
+
+# Created at 2024-08-20T21:01:34.739
+Unexpected IOException with stream: 
+    Embedding image [image/png 99155 bytes]
+
+
+
+# Created at 2024-08-20T21:01:35.084
+Unexpected IOException with stream:   [32mWhen [0m[32muser enters invalid email address into email field[0m           [90m# stepDefinitions.Login.user_enters_invalid_email_address_into_email_field()[0m
+
+
+# Created at 2024-08-20T21:01:35.197
+Unexpected IOException with stream: 
+    Embedding image [image/png 103718 bytes]
+
+
+
+# Created at 2024-08-20T21:01:35.390
+Unexpected IOException with stream:   [32mAnd [0m[32muser enters the vaild password [0m[32m[1m"12345"[0m[32m into password field[0m    [90m# stepDefinitions.Login.user_enters_the_vaild_password_into_password_field(java.lang.String)[0m
+
+
+# Created at 2024-08-20T21:01:35.503
+Unexpected IOException with stream: 
+    Embedding image [image/png 102670 bytes]
+
+
+
+# Created at 2024-08-20T21:01:35.877
+Unexpected IOException with stream:   [32mAnd [0m[32muser clicks on login button[0m                                   [90m# stepDefinitions.Login.user_clicks_on_login_button()[0m
+
+
+# Created at 2024-08-20T21:01:36.000
+Unexpected IOException with stream: 
+    Embedding image [image/png 105476 bytes]
+
+
+
+# Created at 2024-08-20T21:01:36.067
+Unexpected IOException with stream:   [32mThen [0m[32muser should get a warning message about credentials mismatch[0m [90m# stepDefinitions.Login.user_should_get_a_warning_message_about_credentials_mismatch()[0m
+
+
+# Created at 2024-08-20T21:01:36.177
+Unexpected IOException with stream: 
+    Embedding image [image/png 105476 bytes]
+
+
+
+# Created at 2024-08-20T21:01:36.501
+Unexpected IOException: 6,1,Login Functionality,Login with invalid email and valid password(Login Functionality),null,null,null
+
+
+# Created at 2024-08-20T21:01:36.502
+Unexpected IOException: 5,1,Login Functionality,Login without providing any credentials(Login Functionality),null,null,null
+
+
+# Created at 2024-08-20T21:01:36.522
+Unexpected IOException with stream: 
+Scenario: Login without providing any credentials                   [90m# src/test/resource/features/Login.feature:39[0m
+
+
+# Created at 2024-08-20T21:01:36.525
+Unexpected IOException with stream: ------>chrome
+
+
+# Created at 2024-08-20T21:01:37.866
+Unexpected IOException with stream: Aug 20, 2024 9:01:37 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 127, returning the closest version; found: 124; Please update to a Selenium version that supports CDP version 127
+
+
+# Created at 2024-08-20T21:01:39.089
+Unexpected IOException with stream:   [32mGiven [0m[32muser navigates to login page[0m                                [90m# stepDefinitions.Login.user_navigates_to_login_page()[0m
+
+
+# Created at 2024-08-20T21:01:39.272
+Unexpected IOException with stream: 
+    Embedding image [image/png 99155 bytes]
+
+
+
+# Created at 2024-08-20T21:01:39.458
+Unexpected IOException with stream:   [32mWhen [0m[32muser donot enter email address into email field[0m              [90m# stepDefinitions.Login.user_donot_enter_email_address_into_email_field()[0m
+
+
+# Created at 2024-08-20T21:01:39.636
+Unexpected IOException with stream: 
+    Embedding image [image/png 98986 bytes]
+
+
+
+# Created at 2024-08-20T21:01:39.818
+Unexpected IOException with stream:   [32mAnd [0m[32muser donot enter password into password field[0m                 [90m# stepDefinitions.Login.user_donot_enter_password_into_password_field()[0m
+
+
+# Created at 2024-08-20T21:01:39.946
+Unexpected IOException with stream: 
+    Embedding image [image/png 97775 bytes]
+
+
+
+# Created at 2024-08-20T21:01:40.355
+Unexpected IOException with stream:   [32mAnd [0m[32muser clicks on login button[0m                                   [90m# stepDefinitions.Login.user_clicks_on_login_button()[0m
+
+
+# Created at 2024-08-20T21:01:40.476
+Unexpected IOException with stream: 
+    Embedding image [image/png 100612 bytes]
+
+
+
+# Created at 2024-08-20T21:01:40.537
+Unexpected IOException with stream:   [32mThen [0m[32muser should get a warning message about credentials mismatch[0m [90m# stepDefinitions.Login.user_should_get_a_warning_message_about_credentials_mismatch()[0m
+
+
+# Created at 2024-08-20T21:01:40.635
+Unexpected IOException with stream: 
+    Embedding image [image/png 100612 bytes]
+
+
+
+# Created at 2024-08-20T21:01:40.943
+Unexpected IOException: 6,1,Login Functionality,Login without providing any credentials(Login Functionality),null,null,null
+
+
+# Created at 2024-08-20T21:01:40.951
+Unexpected IOException: 5,1,Register Functionality,User creates an account only with mandatory fields(Register Functionality),null,null,null
+
+
+# Created at 2024-08-20T21:01:40.967
+Unexpected IOException with stream: 
+@register
+Scenario: User creates an account only with mandatory fields [90m# src/test/resource/features/Register.feature:4[0m
+
+
+# Created at 2024-08-20T21:01:40.969
+Unexpected IOException with stream: ------>chrome
+
+
+# Created at 2024-08-20T21:01:42.319
+Unexpected IOException with stream: Aug 20, 2024 9:01:42 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 127, returning the closest version; found: 124; Please update to a Selenium version that supports CDP version 127
+
+
+# Created at 2024-08-20T21:01:43.578
+Unexpected IOException with stream:   [32mGiven [0m[32muser navigates to register account page[0m              [90m# stepDefinitions.Register.user_navigates_to_register_account_page()[0m
+
+
+# Created at 2024-08-20T21:01:43.767
+Unexpected IOException with stream: 
+    Embedding image [image/png 93714 bytes]
+
+
+
+# Created at 2024-08-20T21:01:45.747
+Unexpected IOException with stream:   [32mWhen [0m[32muser enters the details below into the fields[0m         [90m# stepDefinitions.Register.user_enters_the_details_below_into_the_fields(io.cucumber.datatable.DataTable)[0m
+    | firstname | Meena                     |
+    | lastname  | Raju                      |
+    | email     | mailtominumeena@gmail.com |
+    | telephone | 2289764523                |
+    | password  | 12345@25                  |
+
+
+# Created at 2024-08-20T21:01:45.912
+Unexpected IOException with stream: 
+    Embedding image [image/png 91016 bytes]
+
+
+
+# Created at 2024-08-20T21:01:46.054
+Unexpected IOException with stream:   [32mAnd [0m[32muser selects privacy policy[0m                            [90m# stepDefinitions.Register.user_selects_privacy_policy()[0m
+
+
+# Created at 2024-08-20T21:01:46.227
+Unexpected IOException with stream: 
+    Embedding image [image/png 78341 bytes]
+
+
+
+# Created at 2024-08-20T21:01:46.863
+Unexpected IOException with stream:   [32mAnd [0m[32muser clicks on continue button[0m                         [90m# stepDefinitions.Register.user_clicks_on_continue_button()[0m
+
+
+# Created at 2024-08-20T21:01:46.996
+Unexpected IOException with stream: 
+    Embedding image [image/png 97679 bytes]
+
+
+
+# Created at 2024-08-20T21:01:47.107
+Unexpected IOException with stream:   [32mThen [0m[32muser account should get created successfully[0m          [90m# stepDefinitions.Register.user_account_should_get_created_successfully()[0m
+
+
+# Created at 2024-08-20T21:01:47.230
+Unexpected IOException with stream: 
+    Embedding image [image/png 97679 bytes]
+
+
+
+# Created at 2024-08-20T21:01:47.929
+Unexpected IOException: 6,1,Register Functionality,User creates an account only with mandatory fields(Register Functionality),null,null,null
+
+
+# Created at 2024-08-20T21:01:47.937
+Unexpected IOException: 5,1,Register Functionality,User creates an account with all fields(Register Functionality),null,null,null
+
+
+# Created at 2024-08-20T21:01:47.973
+Unexpected IOException with stream: 
+@register
+Scenario: User creates an account with all fields    [90m# src/test/resource/features/Register.feature:16[0m
+
+
+# Created at 2024-08-20T21:01:47.986
+Unexpected IOException with stream: ------>chrome
+
+
+# Created at 2024-08-20T21:02:02.034
+Unexpected IOException with stream: Aug 20, 2024 9:02:02 PM org.openqa.selenium.chromium.ChromiumDriver <init>
+WARNING: Unable to establish websocket connection to http://localhost:55849
+org.openqa.selenium.remote.http.ConnectionFailedException: JdkWebSocket initial request execution error
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: driver.version: ChromeDriver
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.openSocket(JdkHttpClient.java:243)
+	at org.openqa.selenium.devtools.Connection.<init>(Connection.java:87)
+	at org.openqa.selenium.chromium.ChromiumDriver.lambda$new$4(ChromiumDriver.java:159)
+	at java.base/java.util.Optional.map(Optional.java:260)
+	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:159)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:88)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:83)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:51)
+	at factory.driverFactory.initializeBrowser(driverFactory.java:18)
+	at Hooks.myHooks.setup(myHooks.java:32)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:64)
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:46)
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:78)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.lambda$run$0(PickleRunners.java:151)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136)
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:148)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:196)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:89)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:147)
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:162)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:145)
+	at io.cucumber.junit.Cucumber$StartAndFinishTestRun.evaluate(Cucumber.java:226)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1028)
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:227)
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:280)
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$2(PlainHttpConnection.java:238)
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934)
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:202)
+	at java.base/sun.nio.ch.SocketChannelImpl.beginConnect(SocketChannelImpl.java:786)
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:874)
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:210)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:571)
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:212)
+	... 9 more
+
+
+
+# Created at 2024-08-20T21:02:02.041
+Unexpected IOException with stream: Aug 20, 2024 9:02:02 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 127, returning the closest version; found: 124; Please update to a Selenium version that supports CDP version 127
+
+
+# Created at 2024-08-20T21:02:02.065
+Unexpected IOException with stream:       [31morg.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1a9aeba2208f80a4fdfe5d46b6a2250c, deleteAllCookies {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.120, chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05..., userDataDir: C:\Users\meenu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55849}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1a9aeba2208f80a4fdfe5d46b6a2250c
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:591)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions.deleteAllCookies(RemoteWebDriver.java:855)
+	at factory.driverFactory.initializeBrowser(driverFactory.java:25)
+	at Hooks.myHooks.setup(myHooks.java:32)
+[0m
+
+
+# Created at 2024-08-20T21:02:02.070
+Unexpected IOException with stream:   [36mGiven [0m[36muser navigates to register account page[0m      [90m# stepDefinitions.Register.user_navigates_to_register_account_page()[0m
+
+
+# Created at 2024-08-20T21:02:02.074
+Unexpected IOException with stream:   [36mWhen [0m[36muser enters the details below into the fields[0m [90m# stepDefinitions.Register.user_enters_the_details_below_into_the_fields(io.cucumber.datatable.DataTable)[0m
+    | firstname | Minu                        |
+    | lastname  | meena                       |
+    | email     | mailtominumeena23@gmail.com |
+    | telephone | 228976452323                |
+    | password  | 1234545@25                  |
+
+
+# Created at 2024-08-20T21:02:02.078
+Unexpected IOException with stream:   [36mAnd [0m[36muser selects Yes for newsletter[0m                [90m# stepDefinitions.Register.user_selects_yes_for_newsletter()[0m
+
+
+# Created at 2024-08-20T21:02:02.080
+Unexpected IOException with stream:   [36mAnd [0m[36muser selects privacy policy[0m                    [90m# stepDefinitions.Register.user_selects_privacy_policy()[0m
+
+
+# Created at 2024-08-20T21:02:02.082
+Unexpected IOException with stream:   [36mAnd [0m[36muser clicks on continue button[0m                 [90m# stepDefinitions.Register.user_clicks_on_continue_button()[0m
+
+
+# Created at 2024-08-20T21:02:02.084
+Unexpected IOException with stream:   [36mThen [0m[36muser account should get created successfully[0m  [90m# stepDefinitions.Register.user_account_should_get_created_successfully()[0m
+
+
+# Created at 2024-08-20T21:02:02.089
+Unexpected IOException with stream:       [31mjava.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "this.driver" is null
+	at Hooks.myHooks.tearDown(myHooks.java:43)
+[0m
+
+
+# Created at 2024-08-20T21:02:02.101
+Unexpected IOException: 7,1,Register Functionality,User creates an account with all fields(Register Functionality),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=127.0.6533.120)\000ABuild info: version: '4.20.0'\002C revision: '866c76ca80'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '21.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [1a9aeba2208f80a4fdfe5d46b6a2250c\002C deleteAllCookies {}]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 127.0.6533.120\002C chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05...\002C userDataDir: C:\005CUsers\005Cmeenu\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:55849}\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platformName: windows\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 1a9aeba2208f80a4fdfe5d46b6a2250c,null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=127.0.6533.120)\000ABuild info: version: '4.20.0'\002C revision: '866c76ca80'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '21.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [1a9aeba2208f80a4fdfe5d46b6a2250c\002C deleteAllCookies {}]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 127.0.6533.120\002C chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05...\002C userDataDir: C:\005CUsers\005Cmeenu\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:55849}\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platformName: windows\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 1a9aeba2208f80a4fdfe5d46b6a2250c,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=127.0.6533.120)\000ABuild info: version: '4.20.0'\002C revision: '866c76ca80'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '21.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [1a9aeba2208f80a4fdfe5d46b6a2250c\002C deleteAllCookies {}]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 127.0.6533.120\002C chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05...\002C userDataDir: C:\005CUsers\005Cmeenu\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:55849}\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platformName: windows\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 1a9aeba2208f80a4fdfe5d46b6a2250c,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=127.0.6533.120)\000ABuild info: version: '4.20.0'\002C revision: '866c76ca80'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '21.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [1a9aeba2208f80a4fdfe5d46b6a2250c\002C deleteAllCookies {}]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 127.0.6533.120\002C chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05...\002C userDataDir: C:\005CUsers\005Cmeenu\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:55849}\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platformName: windows\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 1a9aeba2208f80a4fdfe5d46b6a2250c\000A
+
+
+# Created at 2024-08-20T21:02:02.103
+Unexpected IOException: 7,1,Register Functionality,User creates an account with all fields(Register Functionality),null,Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "this.driver" is null,null,Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "this.driver" is null,Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "this.driver" is null,java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "this.driver" is null\000A
+
+
+# Created at 2024-08-20T21:02:02.107
+Unexpected IOException: 5,1,Register Functionality,User creates duplicate account(Register Functionality),null,null,null
+
+
+# Created at 2024-08-20T21:02:02.119
+Unexpected IOException with stream: 
+@mek
+Scenario: User creates duplicate account                    [90m# src/test/resource/features/Register.feature:29[0m
+
+
+# Created at 2024-08-20T21:02:02.125
+Unexpected IOException with stream: ------>chrome
+
+
+# Created at 2024-08-20T21:02:03.813
+Unexpected IOException with stream: Aug 20, 2024 9:02:03 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 127, returning the closest version; found: 124; Please update to a Selenium version that supports CDP version 127
+
+
+# Created at 2024-08-20T21:02:05.131
+Unexpected IOException with stream:   [32mGiven [0m[32muser navigates to register account page[0m             [90m# stepDefinitions.Register.user_navigates_to_register_account_page()[0m
+
+
+# Created at 2024-08-20T21:02:05.325
+Unexpected IOException with stream: 
+    Embedding image [image/png 93714 bytes]
+
+
+
+# Created at 2024-08-20T21:02:06.908
+Unexpected IOException with stream:   [31mWhen [0m[31muser enters the duplicate details into the fields[0m    [90m# stepDefinitions.Register.user_enters_the_duplicate_details_into_the_fields(io.cucumber.datatable.DataTable)[0m
+    | firstname | Meena                     |
+    | lastname  | Raju                      |
+    | email     | mailtominumeena@gmail.com |
+    | telephone | 2289764523                |
+    | password  | 12345@25                  |
+
+
+# Created at 2024-08-20T21:02:06.914
+Unexpected IOException with stream:       [31morg.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b752307fd264835af4d91791dcfa00fd, clickElement [id]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.120, chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05..., userDataDir: C:\Users\meenu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55888}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55888/devtoo..., se:cdpVersion: 127.0.6533.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b752307fd264835af4d91791dcfa00fd)] -> id: input-firstname]
+Session ID: b752307fd264835af4d91791dcfa00fd
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy24.click(Unknown Source)
+	at Utils.ElementUtils.sendTextIntoElements(ElementUtils.java:31)
+	at Pages.RegisterPage.enterFirstName(RegisterPage.java:53)
+	at stepDefinitions.Register.user_enters_the_duplicate_details_into_the_fields(Register.java:54)
+	at ✽.user enters the duplicate details into the fields(file:///D:/Workspace_intellij/tutorialsNinjaPro/src/test/resource/features/Register.feature:31)
+Caused by: java.io.UncheckedIOException: java.io.IOException: HTTP/1.1 header parser received no bytes
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:436)
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42)
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55)
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute(JdkHttpClient.java:352)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:187)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy24.click(Unknown Source)
+	at Utils.ElementUtils.sendTextIntoElements(ElementUtils.java:31)
+	at Pages.RegisterPage.enterFirstName(RegisterPage.java:53)
+	at stepDefinitions.Register.user_enters_the_duplicate_details_into_the_fields(Register.java:54)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.lambda$run$0(PickleRunners.java:151)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136)
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:148)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:196)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:89)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:147)
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:162)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:145)
+	at io.cucumber.junit.Cucumber$StartAndFinishTestRun.evaluate(Cucumber.java:226)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+Caused by: java.io.IOException: HTTP/1.1 header parser received no bytes
+	at java.net.http/jdk.internal.net.http.common.Utils.wrapWithExtraDetail(Utils.java:388)
+	at java.net.http/jdk.internal.net.http.Http1Response$HeadersReader.onReadError(Http1Response.java:590)
+	at java.net.http/jdk.internal.net.http.Http1AsyncReceiver.checkForErrors(Http1AsyncReceiver.java:302)
+	at ja
+
+# Created at 2024-08-20T21:02:06.918
+Unexpected IOException with stream: va.net.http/jdk.internal.net.http.Http1AsyncReceiver.flush(Http1AsyncReceiver.java:268)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$LockingRestartableTask.run(SequentialScheduler.java:182)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$CompleteRestartableTask.run(SequentialScheduler.java:149)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:207)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434)
+	at java.net.http/jdk.internal.net.http.SocketTube.readAvailable(SocketTube.java:1178)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.read(SocketTube.java:841)
+	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowTask.run(SocketTube.java:181)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:207)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:280)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:233)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.signalReadable(SocketTube.java:782)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadEvent.signalEvent(SocketTube.java:965)
+	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowEvent.handle(SocketTube.java:253)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.handleEvent(HttpClientImpl.java:1467)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:1412)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:1412)
+[0m
+
+
+# Created at 2024-08-20T21:02:06.932
+Unexpected IOException with stream:       [31morg.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b752307fd264835af4d91791dcfa00fd, screenshot []]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.120, chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05..., userDataDir: C:\Users\meenu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55888}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55888/devtoo..., se:cdpVersion: 127.0.6533.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b752307fd264835af4d91791dcfa00fd
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:591)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:321)
+	at Hooks.myHooks.addScreenshot(myHooks.java:52)
+Caused by: java.io.UncheckedIOException: java.net.ConnectException
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:436)
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42)
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55)
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute(JdkHttpClient.java:352)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:187)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:591)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:321)
+	at Hooks.myHooks.addScreenshot(myHooks.java:52)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:64)
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:46)
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:56)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.lambda$run$0(PickleRunners.java:151)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136)
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:148)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:196)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:89)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:147)
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:162)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:145)
+	at io.cucumber.junit.Cucumber$StartAndFinishTestRun.evaluate(Cucumber.java:226)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1028)
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:227)
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:280)
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$2(PlainHttpConnection.java:238)
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934)
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:202)
+	at java.base/sun.nio.ch.SocketChannelImpl.beginConnect(SocketChannelImpl.java:786)
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:874)
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:210)
+	at java.base/java.security.AccessController.doPrivileg
+
+# Created at 2024-08-20T21:02:06.934
+Unexpected IOException with stream: ed(AccessController.java:571)
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:212)
+	... 9 more
+[0m
+
+
+# Created at 2024-08-20T21:02:06.939
+Unexpected IOException with stream:   [36mAnd [0m[36muser selects Yes for newsletter[0m                       [90m# stepDefinitions.Register.user_selects_yes_for_newsletter()[0m
+
+
+# Created at 2024-08-20T21:02:06.942
+Unexpected IOException with stream:   [36mAnd [0m[36muser selects privacy policy[0m                           [90m# stepDefinitions.Register.user_selects_privacy_policy()[0m
+
+
+# Created at 2024-08-20T21:02:06.944
+Unexpected IOException with stream:   [36mAnd [0m[36muser clicks on continue button[0m                        [90m# stepDefinitions.Register.user_clicks_on_continue_button()[0m
+
+
+# Created at 2024-08-20T21:02:06.947
+Unexpected IOException with stream:   [36mThen [0m[36muser should get proper warning about duplicate email[0m [90m# stepDefinitions.Register.user_should_get_proper_warning_about_duplicate_email()[0m
+
+
+# Created at 2024-08-20T21:02:06.958
+Unexpected IOException with stream:       [31morg.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b752307fd264835af4d91791dcfa00fd, screenshot []]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.120, chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05..., userDataDir: C:\Users\meenu\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55888}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55888/devtoo..., se:cdpVersion: 127.0.6533.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b752307fd264835af4d91791dcfa00fd
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:591)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:321)
+	at Hooks.myHooks.tearDown(myHooks.java:43)
+Caused by: java.io.UncheckedIOException: java.net.ConnectException
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:436)
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42)
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55)
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute(JdkHttpClient.java:352)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:187)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:591)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:321)
+	at Hooks.myHooks.tearDown(myHooks.java:43)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:64)
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:46)
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:90)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.lambda$run$0(PickleRunners.java:151)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136)
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:148)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:196)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:89)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:147)
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:162)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:145)
+	at io.cucumber.junit.Cucumber$StartAndFinishTestRun.evaluate(Cucumber.java:226)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1028)
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:227)
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:280)
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$2(PlainHttpConnection.java:238)
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934)
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:202)
+	at java.base/sun.nio.ch.SocketChannelImpl.beginConnect(SocketChannelImpl.java:786)
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:874)
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:210)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:571)
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection
+
+# Created at 2024-08-20T21:02:06.960
+Unexpected IOException with stream: .connectAsync(PlainHttpConnection.java:212)
+	... 9 more
+[0m
+
+
+# Created at 2024-08-20T21:02:06.965
+Unexpected IOException: 7,1,Register Functionality,User creates duplicate account(Register Functionality),null,Error communicating with the remote browser. It may have died.\000ABuild info: version: '4.20.0'\002C revision: '866c76ca80'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '21.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [b752307fd264835af4d91791dcfa00fd\002C clickElement [id]]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 127.0.6533.120\002C chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05...\002C userDataDir: C:\005CUsers\005Cmeenu\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:55888}\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platformName: windows\002C proxy: Proxy()\002C se:cdp: ws://localhost:55888/devtoo...\002C se:cdpVersion: 127.0.6533.120\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000AElement: [[ChromeDriver: chrome on windows (b752307fd264835af4d91791dcfa00fd)] -> id: input-firstname]\000ASession ID: b752307fd264835af4d91791dcfa00fd,null,Error communicating with the remote browser. It may have died.\000ABuild info: version: '4.20.0'\002C revision: '866c76ca80'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '21.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [b752307fd264835af4d91791dcfa00fd\002C clickElement [id]]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 127.0.6533.120\002C chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05...\002C userDataDir: C:\005CUsers\005Cmeenu\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:55888}\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platformName: windows\002C proxy: Proxy()\002C se:cdp: ws://localhost:55888/devtoo...\002C se:cdpVersion: 127.0.6533.120\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000AElement: [[ChromeDriver: chrome on windows (b752307fd264835af4d91791dcfa00fd)] -> id: input-firstname]\000ASession ID: b752307fd264835af4d91791dcfa00fd,Error communicating with the remote browser. It may have died.\000ABuild info: version: '4.20.0'\002C revision: '866c76ca80'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '21.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [b752307fd264835af4d91791dcfa00fd\002C clickElement [id]]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 127.0.6533.120\002C chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05...\002C userDataDir: C:\005CUsers\005Cmeenu\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:55888}\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platformName: windows\002C proxy: Proxy()\002C se:cdp: ws://localhost:55888/devtoo...\002C se:cdpVersion: 127.0.6533.120\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000AElement: [[ChromeDriver: chrome on windows (b752307fd264835af4d91791dcfa00fd)] -> id: input-firstname]\000ASession ID: b752307fd264835af4d91791dcfa00fd,org.openqa.selenium.remote.UnreachableBrowserException: \000AError communicating with the remote browser. It may have died.\000ABuild info: version: '4.20.0'\002C revision: '866c76ca80'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '21.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [b752307fd264835af4d91791dcfa00fd\002C clickElement [id]]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 127.0.6533.120\002C chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05...\002C userDataDir: C:\005CUsers\005Cmeenu\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:55888}\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platformName: windows\002C proxy: Proxy()\002C se:cdp: ws://localhost:55888/devtoo...\002C se:cdpVersion: 127.0.6533.120\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000AElement: [[ChromeDriver: chrome on windows (b752307fd264835af4d91791dcfa00fd)] -> id: input-firstname]\000ASession ID: b752307fd264835af4d91791dcfa00fd\000ACaused by: java.io.UncheckedIOException: java.io.IOException: HTTP/1.1 header parser received no bytes\000ACaused by: java.io.IOException: HTTP/1.1 header parser received no bytes\000ACaused by: java.net.SocketException: Connection reset\000A
+
+
+# Created at 2024-08-20T21:02:06.968
+Unexpected IOException: 7,1,Register Functionality,User creates duplicate account(Register Functionality),null,Error communicating with the remote browser. It may have died.\000ABuild info: version: '4.20.0'\002C revision: '866c76ca80'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '21.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [b752307fd264835af4d91791dcfa00fd\002C screenshot []]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 127.0.6533.120\002C chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05...\002C userDataDir: C:\005CUsers\005Cmeenu\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:55888}\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platformName: windows\002C proxy: Proxy()\002C se:cdp: ws://localhost:55888/devtoo...\002C se:cdpVersion: 127.0.6533.120\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: b752307fd264835af4d91791dcfa00fd,null,Error communicating with the remote browser. It may have died.\000ABuild info: version: '4.20.0'\002C revision: '866c76ca80'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '21.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [b752307fd264835af4d91791dcfa00fd\002C screenshot []]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 127.0.6533.120\002C chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05...\002C userDataDir: C:\005CUsers\005Cmeenu\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:55888}\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platformName: windows\002C proxy: Proxy()\002C se:cdp: ws://localhost:55888/devtoo...\002C se:cdpVersion: 127.0.6533.120\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: b752307fd264835af4d91791dcfa00fd,Error communicating with the remote browser. It may have died.\000ABuild info: version: '4.20.0'\002C revision: '866c76ca80'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '21.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [b752307fd264835af4d91791dcfa00fd\002C screenshot []]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 127.0.6533.120\002C chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05...\002C userDataDir: C:\005CUsers\005Cmeenu\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:55888}\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platformName: windows\002C proxy: Proxy()\002C se:cdp: ws://localhost:55888/devtoo...\002C se:cdpVersion: 127.0.6533.120\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: b752307fd264835af4d91791dcfa00fd,org.openqa.selenium.remote.UnreachableBrowserException: \000AError communicating with the remote browser. It may have died.\000ABuild info: version: '4.20.0'\002C revision: '866c76ca80'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '21.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [b752307fd264835af4d91791dcfa00fd\002C screenshot []]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 127.0.6533.120\002C chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05...\002C userDataDir: C:\005CUsers\005Cmeenu\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:55888}\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platformName: windows\002C proxy: Proxy()\002C se:cdp: ws://localhost:55888/devtoo...\002C se:cdpVersion: 127.0.6533.120\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: b752307fd264835af4d91791dcfa00fd\000ACaused by: java.io.UncheckedIOException: java.net.ConnectException\000ACaused by: java.net.ConnectException\000ACaused by: java.nio.channels.ClosedChannelException\000A
+
+
+# Created at 2024-08-20T21:02:06.970
+Unexpected IOException: 7,1,Register Functionality,User creates duplicate account(Register Functionality),null,Error communicating with the remote browser. It may have died.\000ABuild info: version: '4.20.0'\002C revision: '866c76ca80'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '21.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [b752307fd264835af4d91791dcfa00fd\002C screenshot []]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 127.0.6533.120\002C chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05...\002C userDataDir: C:\005CUsers\005Cmeenu\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:55888}\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platformName: windows\002C proxy: Proxy()\002C se:cdp: ws://localhost:55888/devtoo...\002C se:cdpVersion: 127.0.6533.120\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: b752307fd264835af4d91791dcfa00fd,null,Error communicating with the remote browser. It may have died.\000ABuild info: version: '4.20.0'\002C revision: '866c76ca80'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '21.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [b752307fd264835af4d91791dcfa00fd\002C screenshot []]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 127.0.6533.120\002C chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05...\002C userDataDir: C:\005CUsers\005Cmeenu\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:55888}\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platformName: windows\002C proxy: Proxy()\002C se:cdp: ws://localhost:55888/devtoo...\002C se:cdpVersion: 127.0.6533.120\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: b752307fd264835af4d91791dcfa00fd,Error communicating with the remote browser. It may have died.\000ABuild info: version: '4.20.0'\002C revision: '866c76ca80'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '21.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [b752307fd264835af4d91791dcfa00fd\002C screenshot []]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 127.0.6533.120\002C chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05...\002C userDataDir: C:\005CUsers\005Cmeenu\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:55888}\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platformName: windows\002C proxy: Proxy()\002C se:cdp: ws://localhost:55888/devtoo...\002C se:cdpVersion: 127.0.6533.120\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: b752307fd264835af4d91791dcfa00fd,org.openqa.selenium.remote.UnreachableBrowserException: \000AError communicating with the remote browser. It may have died.\000ABuild info: version: '4.20.0'\002C revision: '866c76ca80'\000ASystem info: os.name: 'Windows 11'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '21.0.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [b752307fd264835af4d91791dcfa00fd\002C screenshot []]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 127.0.6533.120\002C chrome: {chromedriverVersion: 127.0.6533.119 (bdef6783a05...\002C userDataDir: C:\005CUsers\005Cmeenu\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:55888}\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platformName: windows\002C proxy: Proxy()\002C se:cdp: ws://localhost:55888/devtoo...\002C se:cdpVersion: 127.0.6533.120\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: b752307fd264835af4d91791dcfa00fd\000ACaused by: java.io.UncheckedIOException: java.net.ConnectException\000ACaused by: java.net.ConnectException\000ACaused by: java.nio.channels.ClosedChannelException\000A
+
+
+# Created at 2024-08-20T21:02:06.972
+Unexpected IOException: 5,1,Register Functionality,user creates an account without filling any details(Register Functionality),null,null,null
+
+
+# Created at 2024-08-20T21:02:06.984
+Unexpected IOException with stream: 
+Scenario: user creates an account without filling any details    [90m# src/test/resource/features/Register.feature:42[0m
+
+
+# Created at 2024-08-20T21:02:06.987
+Unexpected IOException with stream: ------>chrome
+
+
+# Created at 2024-08-20T21:02:08.525
+Unexpected IOException with stream: Aug 20, 2024 9:02:08 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 127, returning the closest version; found: 124; Please update to a Selenium version that supports CDP version 127
+
+
+# Created at 2024-08-20T21:02:09.689
+Unexpected IOException with stream:   [32mGiven [0m[32muser navigates to register account page[0m                  [90m# stepDefinitions.Register.user_navigates_to_register_account_page()[0m
+
+
+# Created at 2024-08-20T21:02:09.981
+Unexpected IOException with stream: 
+    Embedding image [image/png 93714 bytes]
+
+
+
+# Created at 2024-08-20T21:02:09.986
+Unexpected IOException with stream:   [32mWhen [0m[32muser dont enter any details into the fields[0m               [90m# stepDefinitions.Register.user_dont_enter_any_details_into_the_fields()[0m
+
+
+# Created at 2024-08-20T21:02:10.092
+Unexpected IOException with stream: 
+    Embedding image [image/png 93714 bytes]
+
+
+
+# Created at 2024-08-20T21:02:10.617
+Unexpected IOException with stream:   [32mAnd [0m[32muser clicks on continue button[0m                             [90m# stepDefinitions.Register.user_clicks_on_continue_button()[0m
+
+
+# Created at 2024-08-20T21:02:10.796
+Unexpected IOException with stream: 
+    Embedding image [image/png 100236 bytes]
+
+
+
+# Created at 2024-08-20T21:02:10.871
+Unexpected IOException with stream: ------------------------> Warning: You must agree to the Privacy Policy!
+
+# Created at 2024-08-20T21:02:10.935
+Unexpected IOException with stream:   [32mThen [0m[32muser should get proper warning for every mandatory fields[0m [90m# stepDefinitions.Register.user_should_get_proper_warning_for_every_mandatory_fields()[0m
+
+
+# Created at 2024-08-20T21:02:11.036
+Unexpected IOException with stream: 
+    Embedding image [image/png 100236 bytes]
+
+
+
+# Created at 2024-08-20T21:02:11.396
+Unexpected IOException: 6,1,Register Functionality,user creates an account without filling any details(Register Functionality),null,null,null
+
+
+# Created at 2024-08-20T21:02:11.398
+Unexpected IOException: 5,1,Search functionality,User searches for a valid product(Search functionality),null,null,null
+
+
+# Created at 2024-08-20T21:02:11.404
+Unexpected IOException with stream: 
+@mer
+Scenario: User searches for a valid product                      [90m# src/test/resource/features/search.feature:3[0m
+
+
+# Created at 2024-08-20T21:02:11.406
+Unexpected IOException with stream: ------>chrome
+
+
